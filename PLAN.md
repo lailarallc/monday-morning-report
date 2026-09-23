@@ -65,3 +65,11 @@ Each entry records what was found, what was fixed, and when to
 check again.
 
 <!-- Entries are added by /improve — don't delete this section -->
+
+### 2026-09-23 — Audit (health check only)
+- **Findings:** 1 critical, 4 important, 3 nice-to-have
+- **Top concerns:** Trend arrows can never move: This Week "Last Week (auto)" (C5/C8/C11) reads History!B3/D3/F3, which are formula mirrors of This Week itself, so Last Week always equals This Week and the arrow is always "→". Velocity Pulse guidance says "last 4 weeks ÷ store count" with no ÷4, which gives a 4x-inflated units/store/week. Workflow files (PLAN/HANDOFF/DECISIONS/CLAUDE.md) stop at 2026-05-27 and don't mention client mode, the golden lock, or CI.
+- **Other findings:** client_mode `_load_kpis` stores blank KPI values, so a blank row counts as "populated" and suppresses the missing-metric warning; label-edit instructions contradict (This Week note says "change on the Setup tab", Setup A11 says "on the This Week tab", and Setup has no editable labels); README says the output xlsx is gitignored but it is tracked and golden-locked; client-mode.yml comment says v0.2.1 but installs v0.2.2, and its URLs still point at MsShawnP; Cash Position mixes 30-day AR with this-week-only AP (optimistic).
+- **Checks run:** golden + client-mode tests 10/10 pass (pytest basetemp inside gitignored client-output/, then deleted); canonical drift gate clean; engagement guard clean. Manual security/code/data pass replaced /security-review, /ce:review, data-science-reviewer. No secrets found.
+- **Action taken:** Audit only — no fixes this session
+- **Next review:** 2026-12-22
