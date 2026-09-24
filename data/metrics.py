@@ -141,7 +141,9 @@ TIERS = {
                     "Costco Vendor Hub) — log in weekly and screenshot new items."
                 ),
                 "watch_for": (
-                    "Walmart OTIF below 98% triggers automatic fines. "
+                    "Walmart fines 3% of COGS on non-compliant cases that miss its OTIF "
+                    "targets: 90% on-time (prepaid, by MABD) or 98% ready (collect), and "
+                    "95% in-full per category. "
                     "A deduction spike (3+ new deductions in one week) often signals "
                     "a systemic issue — wrong UPC, wrong case pack, labeling error."
                 ),

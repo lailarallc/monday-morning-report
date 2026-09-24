@@ -24,7 +24,7 @@ import pytest
 ROOT = Path(__file__).resolve().parent
 XLSX = ROOT / "output" / "monday-morning-report.xlsx"
 
-GOLDEN_SHA256 = "555f236c1855e19b05ea9819945d9662248d7094453436c595f23bff9a1d6652"
+GOLDEN_SHA256 = "803a6ea278518cf1eaec6124bd175bec32fbe7283e98b65a017878b34a008205"
 
 # Heading cells that must render in Playfair Display (the brand serif).
 PLAYFAIR_HEADINGS = [("Setup", "A1"), ("This Week", "A1"), ("Where to Find These", "A1")]
