@@ -365,7 +365,7 @@ Under 200 words. Steps:
   - Week 9: partial recovery after reset
 - Closing paragraph: "Without the Monday pulse, this wouldn't have surfaced until
   the quarterly category review — 10 weeks too late. The reset cost $0. A lost
-  shelf position at Walmart would have cost $80K–$150K in annual velocity."
+  shelf position at the national mass retailer would have cost $80K–$150K in annual velocity."
 - Tone: Economist voice — declarative, specific numbers, no marketing language
 - Numbers should be internally consistent (velocity figures align with Cinderhaven's
   established profile from other pieces if those exist; otherwise fabricate plausibly)
@@ -421,7 +421,7 @@ and the file looks like a Lailara deliverable, not a default Excel workbook.
   Alternative: `.gitignore output/` and regenerate on demand.
 - Cinderhaven velocity and cash numbers — cross-check against existing Cinderhaven
   pieces for internal consistency before finalizing the case study. If no prior
-  numbers exist, fabricate plausibly ($25M revenue, top Walmart SKU at ~4–5
+  numbers exist, fabricate plausibly ($25M revenue, top national mass retailer SKU at ~4–5
   UPW, dropping to ~3.5 in week 6).
 
 ---
