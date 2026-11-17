@@ -1,0 +1,63 @@
+# Typed figures this repo prints with no canon key (owner, 2026-11-15; plan U19, U22).
+# One row per figure per location. The platform's fleet check holds the row count to a ceiling that only
+# falls: give a figure a key (or stop printing it) and delete its row. listed=yes: the read map names it, and
+# U19 owes its key; listed=no: U22 works it down. Generated from the 2026-11-15 manifest pass.
+file_line	printed	exact_value	meaning	source	kind	listed
+README.md:65	50 SKUs	50	SKU count, all-time	prose only; canon universe.skus_total	prose-only	no
+README.md:65	5 product lines	5	product line count, all-time	prose only; canon universe.product_lines	prose-only	no
+README.md:65	6 contracted retailers	6	contracted retailer count, all-time	prose only; canon universe.retailers	prose-only	no
+docs/cinderhaven-case-study.md:23	$1.8M clean	1800000	weekly AR clean, week 1 (Sep 2)	prose only (static case-study narrative; no data source)	prose-only	yes
+docs/cinderhaven-case-study.md:23	$140K disputed	140000	weekly AR disputed, week 1 (Sep 2)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:23	$220K expected	220000	weekly AR expected, week 1 (Sep 2)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:23	280 doors	280	regional grocer new-account door count	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:24	$1.6M clean	1600000	weekly AR clean, week 2 (Sep 9)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:24	$180K disputed	180000	weekly AR disputed, week 2 (Sep 9)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:24	$310K expected	310000	weekly AR expected, week 2 (Sep 9)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:25	$1.5M clean	1500000	weekly AR clean, week 3 (Sep 16)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:25	$195K disputed	195000	weekly AR disputed, week 3 (Sep 16)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:25	$280K expected	280000	weekly AR expected, week 3 (Sep 16)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:26	$1.7M clean	1700000	weekly AR clean, week 4 (Sep 23)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:26	$175K disputed	175000	weekly AR disputed, week 4 (Sep 23)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:26	$295K expected	295000	weekly AR expected, week 4 (Sep 23)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:27	$1.9M clean	1900000	weekly AR clean, week 5 (Sep 30)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:27	$168K disputed	168000	weekly AR disputed, week 5 (Sep 30)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:27	$310K expected	310000	weekly AR expected, week 5 (Sep 30)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:28	4.8 → 4.1 UPW	4.8	Walmart top-SKU velocity before/after week 6 (after 4.1)	prose only (static case-study narrative; no data source)	prose-only	yes
+docs/cinderhaven-case-study.md:28	$2.1M clean	2100000	weekly AR clean, week 6 (Oct 7)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:28	$152K disputed	152000	weekly AR disputed, week 6 (Oct 7)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:28	$290K expected	290000	weekly AR expected, week 6 (Oct 7)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:28	15% WoW	15	Walmart top-SKU velocity drop week 6	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:29	$1.9M clean	1900000	weekly AR clean, week 7 (Oct 14)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:29	$144K disputed	144000	weekly AR disputed, week 7 (Oct 14)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:29	$305K expected	305000	weekly AR expected, week 7 (Oct 14)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:29	4.0 UPW	4.0	Walmart top-SKU velocity, units/store/week, week 7 (Oct 14)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:3	$25M		company size, annual revenue	prose only (static case-study narrative; no data source)	prose-only	yes
+docs/cinderhaven-case-study.md:30	$2.0M clean	2000000	weekly AR clean, week 8 (Oct 21)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:30	$138K disputed	138000	weekly AR disputed, week 8 (Oct 21)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:30	$315K expected	315000	weekly AR expected, week 8 (Oct 21)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:30	3.9 UPW	3.9	Walmart top-SKU velocity, units/store/week, week 8 (Oct 21)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:30	~35% of stores	35	share of division stores with planogram reset	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:31	$2.2M clean	2200000	weekly AR clean, week 9 (Oct 28)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:31	$121K disputed	121000	weekly AR disputed, week 9 (Oct 28)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:31	$320K expected	320000	weekly AR expected, week 9 (Oct 28)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:31	4.2 UPW	4.2	Walmart top-SKU velocity, units/store/week, week 9 (Oct 28)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:31	40% of flagged stores	40	share of flagged stores corrected by week 9	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:32	$2.3M clean	2300000	weekly AR clean, week 10 (Nov 4)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:32	$108K disputed	108000	weekly AR disputed, week 10 (Nov 4)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:32	$330K expected	330000	weekly AR expected, week 10 (Nov 4)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:32	4.6 UPW	4.6	Walmart top-SKU velocity, units/store/week, week 10 (Nov 4)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:33	$2.4M clean	2400000	weekly AR clean, week 11 (Nov 11)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:33	$95K disputed	95000	weekly AR disputed, week 11 (Nov 11)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:33	$340K expected	340000	weekly AR expected, week 11 (Nov 11)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:33	4.9 UPW	4.9	Walmart top-SKU velocity, units/store/week, week 11 (Nov 11)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:34	$2.5M clean	2500000	weekly AR clean, week 12 (Nov 18)	prose only (static case-study narrative; no data source)	prose-only	yes
+docs/cinderhaven-case-study.md:34	$88K disputed	88000	weekly AR disputed, week 12 (Nov 18)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:34	$355K expected	355000	weekly AR expected, week 12 (Nov 18)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:34	5.0 UPW	5.0	Walmart top-SKU velocity, units/store/week, week 12 (Nov 18)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:34	280 doors	280	regional grocer first-ship door count	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:40	4.8 to 4.1	4.8	Walmart top-SKU velocity units/store/week before/after (after 4.1)	prose only (static case-study narrative; no data source)	prose-only	yes
+docs/cinderhaven-case-study.md:40	15%	15	Walmart top-SKU velocity drop WoW	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:56	$80,000–$150,000	80000	annual velocity value of lost eye-level shelf position (low; high 150000)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:7	$25M		company size, annual revenue	prose only (static case-study narrative; no data source)	prose-only	yes
+docs/cinderhaven-case-study.md:7	$80,000–$150,000	80000	annual velocity value of a lost eye-level shelf position (low; high 150000)	prose only (static case-study narrative; no data source)	prose-only	no
+docs/cinderhaven-case-study.md:9	$25M		company size, annual revenue	prose only (static case-study narrative; no data source)	prose-only	yes
